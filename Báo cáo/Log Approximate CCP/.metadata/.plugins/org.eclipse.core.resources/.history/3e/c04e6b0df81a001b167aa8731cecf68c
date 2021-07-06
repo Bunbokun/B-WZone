@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eea87bc5-7d71-4c45-ba62-db8f13926d2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../imusic/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../imusic/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../imusic/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../imusic/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/bin/lokalise2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/locale/en/LC_MESSAGES/django.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/locale/vi/LC_MESSAGES/django.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/migrations/0002_auto_20200821_0914.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/css/select2-bootstrap4.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/css/select2.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/css/styles.bundle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/css/toastr.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/css/vendors.bundle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/fonts/ionicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/fonts/ionicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/fonts/ionicons.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/fonts/line-awesome.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/fonts/line-awesome.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/fonts/line-awesome.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/artists/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/background/footer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/background/horizontal/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/background/horizontal/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/background/horizontal/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/background/vertical/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/banner/analytics.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/banner/artists.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/banner/event.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/banner/home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/banner/radio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/banner/song.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/cover/large/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/cover/large/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/cover/large/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/cover/large/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/cover/large/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/cover/large/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/cover/medium/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/cover/medium/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/cover/medium/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/cover/medium/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/cover/small/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/cover/small/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/cover/small/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/cover/small/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/cover/small/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/genre/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/genre/default.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/logos/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/logos/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/slick-carousel/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/users/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/images/users/thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/js/amplitude.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/js/scripts.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/js/select2.full.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/js/vendors.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/static/js/wavesurfer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/templates/includes/dropdown.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/templates/includes/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/templates/includes/javascripts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/templates/includes/nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/templates/includes/sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/templates/includes/stylesheets.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/templates/layouts/base_generic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myalbums/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/registration/logged_out.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/registration/login.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ieUyQPrZFRWKgAjcbGkZr6iCVh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="E:/Download/openjfx-14.0.1_windows-x64_bin-sdk" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\Robotics-Coverage-Path-Planning\Log Approximate CCP\src\com\robotics\decompose\Boustrophedon" />
+      <recent name="C:\Users\DELL\Desktop\Coverage-Path-Planning\Robotics-Coverage-Path-Planning Version 3\Robotics-Coverage-Path-Planning\Log Approximate CCP" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CoverageBoustrophedonAlgorithm">
+    <configuration name="CoverageBoustrophedonAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.robotics.decompose.Boustrophedon.CoverageBoustrophedonAlgorithm" />
+      <module name="Log Approximate CCP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.robotics.decompose.Boustrophedon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuiCCP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.robotics.gui.GuiCCP" />
+      <module name="Log Approximate CCP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.robotics.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuiCCP2" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.robotics.gui.GuiCCP2" />
+      <module name="Log Approximate CCP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.robotics.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.robotics.gui.Main" />
+      <module name="Log Approximate CCP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.robotics.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.robotics.gui.Main2" />
+      <module name="Log Approximate CCP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.robotics.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Log Approximate CCP" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Log Approximate CCP" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CoverageBoustrophedonAlgorithm" />
+        <item itemvalue="Application.GuiCCP" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eea87bc5-7d71-4c45-ba62-db8f13926d2e" name="Default Changelist" comment="" />
+      <created>1592231135257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592231135257</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="439" y="32" key="#CoverageBoustrophedonAlgorithm" timestamp="1604093256474">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="32" key="#CoverageBoustrophedonAlgorithm/0.0.1536.824@0.0.1536.824" timestamp="1604093256474" />
+    <state x="249" y="0" key="#Project_Structure" timestamp="1602267859000">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1602267859000" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602268294627">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602268294627" />
+    <state x="577" y="167" key="FileChooserDialogImpl" timestamp="1602295119125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="577" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602295119125" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1604093249225">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604093249225" />
+    <state width="563" height="446" key="SwitcherDM" timestamp="1604093364861">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="563" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1604093364861" />
+    <state x="478" y="11" width="579" height="801" key="find.popup" timestamp="1602301101802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="11" width="579" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1602301101802" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1604093260498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1604093260498" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604093357072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604093357072" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="e.getRows().size()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>e.getRows().size()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>

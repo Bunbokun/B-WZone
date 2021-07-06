@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javafx-sdk-14.0.1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../openjfx-14.0.1_windows-x64_bin-sdk/javafx-sdk-14.0.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../openjfx-14.0.1_windows-x64_bin-sdk/javafx-sdk-14.0.1" />
+    </SOURCES>
+  </library>
+</component>
